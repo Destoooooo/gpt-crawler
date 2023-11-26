@@ -1,0 +1,57 @@
+	 <div id="translations">
+292	 	 <h4>Translations of this page</h4>
+293	 	 
+294	 	 <!-- Please keep this list alphabetical, and in the original -->
+295	 	 <!-- language if possible, otherwise default to English -->
+296	 	 <!-- If you do not have it English, please comment what the -->
+297	 	 <!-- English is.  If you add a new language here, please -->
+298	 	 <!-- advise web-translators@gnu.org and add it to -->
+299	 	 <!--    - in /home/www/bin/nightly-vars either TAGSLANG or WEBLANG -->
+300	 	 <!--    - in /home/www/html/server/standards/README.translations.html -->
+301	 	 <!--      one of the lists under the section "Translations Underway" -->
+302	 	 <!--    - if there is a translation team, you also have to add an alias -->
+303	 	 <!--      to mail.gnu.org:/com/mailer/aliases -->
+304	 	 <!-- Please also check you have the 2 letter language code right versus -->
+305	 	 <!--     http://www.w3.org/WAI/ER/IG/ert/iso639.htm -->
+306	 	 <ul>
+307	 	   <li><a href="/philosophy/free-sw.ar.html">&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;</a> <!-- Arabic --></li>
+308	 	  <li><a href="/philosophy/free-sw.bg.html">&#x431;&#x44A;&#x43B;&#x433;&#x430;&#x440;&#x441;&#x43A;&#x438;</a>  <!-- Bulgarian --></li>
+309	 	  <li><a href="/philosophy/free-sw.ca.html">Catal&#x00e0;</a>    <!-- Catalan --></li>
+310	 	 
+311	 	 <!-- Chinese (Simplified) -->
+312	 	  <li><a href="/philosophy/free-sw.cn.html">&#x7b80;&#x4f53;&#x4e2d;&#x6587;</a></li>
+313	 	 
+314	 	 <!-- Chinese (Traditional) -->
+315	 	  <li><a href="/philosophy/free-sw.zh.html">&#x7e41;&#x9ad4;&#x4e2d;&#x6587;</a></li>
+316	 	 
+317	 	  <li><a href="/philosophy/free-sw.cs.html">&#x010c;esky</a>     <!-- Czech --></li>
+318	 	  <li><a href="/philosophy/free-sw.da.html">Dansk</a>    <!-- Danish --></li>
+319	 	  <li><a href="/philosophy/free-sw.de.html">Deutsch</a>  <!-- German --></li>
+320	 	  <li><a href="/philosophy/free-sw.html">English</a> </li>
+321	 	  <li><a href="/philosophy/free-sw.el.html">Ελληνικά</a>  <!--Greek--></li>
+322	 	  <li><a href="/philosophy/free-sw.es.html">Espa&#x00f1;ol</a>   <!-- Spanish --></li>
+323	 	  <li><a href="/philosophy/free-sw.eo.html">Esperanto</a></li>
+324	 	  <li><a href="/philosophy/free-sw.fa.html">&#x0641;&#x0627;&#x0631;&#x0633;&#x06cc;</a></li>
+325	 	  <li><a href="/philosophy/free-sw.fr.html">Fran&#x00e7;ais</a>  <!-- French --></li>
+326	 	  <li><a href="/philosophy/free-sw.gl.html">Galego</a>   <!-- Galician --></li>
+327	 	  <li><a href="/philosophy/free-sw.he.html">&#x05e2;&#x05d1;&#x05e8;&#x05d9;&#x05ea;</a> <!-- Hebrew --></li>
+328	 	  <li><a href="/philosophy/free-sw.hr.html">Hrvatski</a> <!-- Croatian --></li>
+329	 	  <li><a href="/philosophy/free-sw.id.html">Bahasa Indonesia</a> <!-- Indonesian --></li>
+330	 	  <li><a href="/philosophy/free-sw.it.html">Italiano</a> <!-- Italian --></li>
+331	 	  <li><a href="/philosophy/free-sw.ja.html">&#x65e5;&#x672c;&#x8a9e;</a> <!-- Japanese --></li>
+332	 	  <li><a href="/philosophy/free-sw.ko.html">&#xd55c;&#xad6d;&#xc5b4;</a> <!-- Korean --></li>
+333	 	  <li><a href="/philosophy/free-sw.hu.html">Magyar</a>   <!-- Hungarian --></li>
+334	 	  <li><a href="/philosophy/free-sw.nl.html">Nederlands</a>       <!-- Dutch --></li>
+335	 	  <li><a href="/philosophy/free-sw.no.html">Norsk</a>    <!-- Norwegian --></li>
+336	 	  <li><a href="/philosophy/free-sw.pl.html">Polski</a>   <!-- Polish --></li>
+337	 	  <li><a href="/philosophy/free-sw.pt.html">Portugu&#x0ea;s</a>  <!-- Portuguese --></li>
+338	 	  <li><a href="/philosophy/free-sw.ro.html">Rom&#x00e2;n&#x0103;</a>     <!-- Romanian --></li>
+339	 	  <li><a href="/philosophy/free-sw.ru.html">&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;</a> <!-- Russian --></li>
+340	 	  <li><a href="/philosophy/free-sw.sl.html">Slovinsko</a>        <!--- Slovenian --></li>
+341	 	  <li><a href="/philosophy/free-sw.sr.html">&#x0421;&#x0440;&#x043f;&#x0441;&#x043a;&#x0438;</a> <!-- Serbian --></li>
+342	 	  <li><a href="/philosophy/free-sw.tl.html">Tagalog</a>  <!-- Tagalog --></li>
+343	 	  <li><a href="/philosophy/free-sw.tr.html">T&#x00fc;rk&#x00e7;e</a>     <!-- Turkish --></li>
+344	 	 </ul>
+345	 	 </div>
+346	 	 
+347	 	 </div>
